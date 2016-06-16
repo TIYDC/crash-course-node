@@ -1,0 +1,23 @@
+{
+  "name": "crash-course-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Code for a crash course in Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIYDC/crash-course-node.git"
+  },
+  "author": "Jordan Kasper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TIYDC/crash-course-node/issues"
+  },
+  "homepage": "https://github.com/TIYDC/crash-course-node#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
